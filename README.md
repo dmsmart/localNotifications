@@ -4,9 +4,8 @@
 
 Cordova Local-Notification Plugin
 =================================
+THIS IS ONLY THE COPY OF THE REPOSITORY AND OLD VERSION OF https://github.com/katzer/cordova-plugin-local-notifications. 
 
-The essential purpose of local notifications is to enable an application to inform its users that it has something for them — for example, a message or an upcoming appointment — when the application isn’t running in the foreground.<br>
-They are scheduled by an application and delivered on the same device.
 
 <img width="35%" align="right" hspace="19" vspace="12" src="https://raw.githubusercontent.com/katzer/cordova-plugin-local-notifications/example/images/android.png"></img>
 
